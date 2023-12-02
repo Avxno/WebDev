@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello World</title>
+</head>
+<body>
+  <h1>
+    <center>Welcome to WebDev 101</center>
+  </h1>
+  <p>
+    Introduction to Web Development<br>
+    <img src=""
+  </p>
+</body>
+</html>
